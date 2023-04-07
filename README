@@ -1,0 +1,15 @@
+Gabriel Struchen
+Pin Wang
+Jabali Muriithi
+In this program we recreated the full game of blackjack
+We used classes for:
+  The deck of cards
+  the player
+  the dealer
+We then used functions to to enable the player to make decisions about what moves they would like to do:
+  Hit
+  Stand
+  Split
+  Double-Down
+  Surrender
+We used a text file to store the player's available funds and write their available funds after a game back as well
